@@ -20,7 +20,7 @@ Estrutura de projeto, clareza no código entre seus métodos e funções, tratam
 
 ## Entrega
 
-Clone este repositório, crie uma branch para sua avaliação nomeada com o padrão `seunome-test`, e quando for entregar o teste, abra uma PR para master e nos avise.
+Clone este repositório, crie uma branch para sua avaliação nomeada com o padrão `seunome-test`, e quando for entregar o teste, abra uma PR para main e nos avise.
 
 #### Estamos te aguardando. Boa sorte!
 ![enter image description here](https://media1.giphy.com/media/qadvd1vBaZBBu/giphy.gif?cid=ecf05e47mvkxn4sov6mebrf52a5hztefs64jtandm1vsjnxk&rid=giphy.gif&ct=g)
